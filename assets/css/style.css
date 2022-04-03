@@ -1,0 +1,26 @@
+span {
+    font-family: 'Lobster', cursive;
+    font-size: 37px;
+}
+
+body {
+    font-family: 'Cabin', sans-serif;
+    font-size: 16px;
+}
+
+h5 {
+    font-size: 20px;
+}
+
+h3,
+h4 {
+    font-size: 40px;
+}
+
+#pi {
+    font-size: 23px;
+}
+
+#po {
+    font-size: 30px;
+}
